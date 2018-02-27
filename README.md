@@ -1,2 +1,2 @@
 # hello-world
-Hello github
+Hello github is the first project for git.
